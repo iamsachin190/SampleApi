@@ -1,4 +1,4 @@
-# Beer Catalog
+# SampleApi
 
 ## Description
 Beer Catalog is a web application built with **React** that allows users to explore and discover a variety of beers. The application fetches data from an API and displays beer details such as name, image, and description. It also provides search functionality to help users find specific beers and paginates the results for better user experience.
